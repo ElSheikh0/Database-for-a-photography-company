@@ -45,7 +45,7 @@ We used :
 ---
 ---
 
-[1]:<./DOC1.png>
+[1]:<dm/DOC1.png>
 
 [2]:<./DOC2.png>
 
