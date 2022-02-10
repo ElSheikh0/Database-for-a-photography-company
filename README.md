@@ -47,13 +47,13 @@ We used :
 
 [1]:<dm/DOC1.png>
 
-[2]:<./DOC2.png>
+[2]:<dm/DOC2.png>
 
-[3]:<./ERD.png>
+[3]:<dm/ERD.png>
 
-[4]:<./Schema.png>
+[4]:<dm/Schema.png>
 
-[5]:<./REPROT1.png>
+[5]:<dm/REPROT1.png>
 
-[6]:<./REPROT2.png>
+[6]:<dm/REPROT2.png>
 
