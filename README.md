@@ -30,7 +30,30 @@ We used :
 
 
 ---
+### DOC1
+![Doc1][1]
+### DOC2
+![Doc2][2]
+### ERD
+![ERD][3]
+### SCHEMA
+![Schema][4]
+### REPROT1
+![REPROT1][5]
+### REPROT2
+![REPROT2][6]
+---
+---
 
-![2022-01-01 (3)](https://user-images.githubusercontent.com/87213269/153432641-b9274b16-6df9-4dd2-9307-6601eee49128.png)
+[1]:<./DOC1.png>
 
-![2022-01-01](https://user-images.githubusercontent.com/87213269/153432647-486f5d7f-2c8a-479b-9cec-23626e56f38b.png)
+[2]:<./DOC2.png>
+
+[3]:<./ERD.png>
+
+[4]:<./Schema.png>
+
+[5]:<./REPROT1.png>
+
+[6]:<./REPROT2.png>
+
