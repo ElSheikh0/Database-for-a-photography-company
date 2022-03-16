@@ -3,7 +3,7 @@
 ---
 
 # DB_photography Remake 
-Designing a complete data base for managing a photographic company and making models to make it easy to manage the data base. We used (SQL - FORMs Builder - FORMS Compiler - ERD digram - schema) Hope you like this 😊😉.
+Designing a complete data base for managing a photographic company and making models to make it easy to manage the data base. We used (SQL - FORMs Builder - FORMS Compiler - ERD digram - schema) Hope you like this.
 
 
 We used :
@@ -20,10 +20,10 @@ We used :
 | ---------------------------- | 
 | *Mohammed nasr ElSheikh*     | 
 | *Osama Mohammed Al-Gharib*   | 
-| *Abdelrahman Mohyy*          | 
+|   *Abdelrahman Mohyy*        | 
 | *Ahmed Osama Attia*          | 
 | *Mohamed Essam Mohamed*      | 
-| *Soha Mohamed Hosny*         | 
+| *Soha Mohamed Hosny*  
 |*Gana Ayman Talaat*           |
 
 ---
